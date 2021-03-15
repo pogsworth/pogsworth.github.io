@@ -6,4 +6,4 @@ I have been programming video games professionally since 1992.  I started much e
 
 I'm just starting to figure this out.  I hope to soon show a webpage memory card game:
 
-[Memory Game] (https://pogsworth.github.io/memory)
+[Memory Game](https://pogsworth.github.io/memory)
